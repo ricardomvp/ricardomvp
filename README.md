@@ -15,7 +15,7 @@
 
 ## My top projects
 ### [Motoclassifier](https://motoclassifier.herokuapp.com/) 🏍
-If you like motorcycles and Machine learning look it this awesome classifier. [GitHub](https://github.com/ricardomvp/motoclassifier)
+If you like motorcycles and Machine learning look this awesome classifier. [GitHub](https://github.com/ricardomvp/motoclassifier)
 
 ### [NutriApp](https://new-nutriapp.herokuapp.com/) 🥫 
 This App determines wih help of machine learning if packeged food contains dangerous ingredients. [GitHub](https://github.com/ricardomvp/new-nutriapp)
